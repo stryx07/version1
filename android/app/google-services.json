@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191274796779",
+    "project_id": "mourad-project-f9e60",
+    "storage_bucket": "mourad-project-f9e60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191274796779:android:f76d083589fe58e9bea0ae",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_acade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0gMmYRQ0I7mXzSgLsUPsH0HFYv9s8JAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
